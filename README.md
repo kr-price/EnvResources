@@ -25,3 +25,9 @@ This is a repository of the environmental science career resources I've gathered
 - [American Conservation Experience](https://usaconservation.applicantpool.com/jobs/)
 
 - [Association of Zoos & Aquariums](https://www.aza.org/jobs?locale=en)
+
+## Learning R
+
+- [R for Data Science](https://r4ds.hadley.nz/) *(free, online textbook aimed at beginner programmers)*
+
+- [Bioinformatics Lab (BIMM 143)](https://bioboot.github.io/bimm143_W26/schedule/#4) *(labs 4-6 serve as an introduction to using R)*
